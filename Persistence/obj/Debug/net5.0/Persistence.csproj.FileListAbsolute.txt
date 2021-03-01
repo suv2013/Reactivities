@@ -1,0 +1,15 @@
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb

@@ -1,0 +1,12 @@
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Projects\subhrawork\GitHub\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
